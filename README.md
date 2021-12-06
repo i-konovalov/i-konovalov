@@ -16,7 +16,7 @@
 I love math since I was at school and now I'm happy to have an opportunity to use it towards real numbers.  
 
 My stack:
-`SQL` `Python` `Pandas` `Numpy` `Scipy` `Scikit-learn` `Matplotlib` `Seaborn` `BeautifulSoup` etc.
+`Git` `SQL` `Python` `Pandas` `Numpy` `Scipy` `Scikit-learn` `Matplotlib` `Seaborn` `BeautifulSoup` etc.
 
 Check out my <a href='https://github.com/i-konovalov/data-analysis'>projects!</a>
 <!--
