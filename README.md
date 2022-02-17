@@ -10,8 +10,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" height="35">
 </a>
   
-  
-### Currently looking for a job.  
+
   
 I love math since I was at school and now I'm happy to have an opportunity to use it towards real numbers.  
 
